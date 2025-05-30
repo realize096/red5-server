@@ -106,7 +106,7 @@
         <isoparser.version>1.9.39</isoparser.version>
         <tika.version>1.26</tika.version>
         <ehcache.version>2.10.6</ehcache.version>
-        <commons-beanutils.version>1.9.4</commons-beanutils.version>
+        <commons-beanutils.version>1.11.0</commons-beanutils.version>
         <commons-codec.version>1.13</commons-codec.version>
         <commons-collections.version>4.4</commons-collections.version>
         <commons-io.version>2.11.0</commons-io.version>
