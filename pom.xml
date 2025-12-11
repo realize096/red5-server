@@ -104,7 +104,7 @@
         <tomcat.version>8.5.87</tomcat.version>
         <junit.version>[4.13.1,)</junit.version>
         <isoparser.version>1.9.39</isoparser.version>
-        <tika.version>1.26</tika.version>
+        <tika.version>2.0.0</tika.version>
         <ehcache.version>2.10.6</ehcache.version>
         <commons-beanutils.version>1.9.4</commons-beanutils.version>
         <commons-codec.version>1.13</commons-codec.version>
